@@ -4,7 +4,7 @@
 
 # pprint makes dictionaries a lot more human readable
 from pprint import pprint
-
+import json
 # requests is used to send HTTP requests (get it?)
 import requests
 
@@ -24,6 +24,9 @@ def main():
     # convert the JSON content of the response into a python dictionary
          vader= resp.json()
          pprint(vader)
+
+
+#         print(f"{vader.json()['name']} was born in the year {vader.json()['birth_year']}. His eyes are now {vader.json()['eye_colour']} and his hair color is {vader.json()['hair_colour']}")
 
     else:
         print("Not a valid url")
