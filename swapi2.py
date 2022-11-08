@@ -25,8 +25,11 @@ def main():
          vader= resp.json()
          pprint(vader)
 
+         print(vader["name"])
 
-#         print(f"{vader.json()['name']} was born in the year {vader.json()['birth_year']}. His eyes are now {vader.json()['eye_colour']} and his hair color is {vader.json()['hair_colour']}")
+         print(vader["name"]  ," was born in the year ", vader["birth_year"], " . His eyes are now ", vader["eye_color"], " and his hair color is ", vader["hair_color"]) 
+
+
 
     else:
         print("Not a valid url")
