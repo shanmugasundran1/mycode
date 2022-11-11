@@ -1,0 +1,35 @@
+Rate - 
+            Limit: 5000
+            Used: 14
+            Remaining: 4986
+AndroidJava-FitnessTrackerApp
+AndroidJava-TravelDiary
+awesome-github-profile-readme-templates
+Django-Course_Basics
+Django-Template-AdminLTE
+github-slideshow
+Java-MLM_ManagementApp
+Java-RestaurantManagementSystem_SpringFramework
+Java-ZooDecorator
+JavaScript-BlackJack
+JavaScript-Calculator
+JavaScript-LeadsTrackerPlugin
+JavaScript-SimpleCounter
+learning_oauth
+mycode
+NodeJS-weather-website
+Python-BodyFatScanner
+Python-FaceRecognition_Greeting
+Python-FlightPathAlgorithm
+Python-InstaProfile_Downloader
+Python-SurveillanceAndRescue_Drone
+ReactJS-InstagramClone
+ReactJS-MovieData_App
+ReactNative-InstagramClone
+ReactNative-RealTimeChat_App
+ReactNative-TeslaCatalogue_App
+ReactNative-UberClone
+shanmugasundran1
+Web-ChatApplication
+Web-Database_BackupAndRestore
+422 {"message":"Repository creation failed.","errors":[{"resource":"Repository","code":"custom","field":"name","message":"name already exists on this account"}],"documentation_url":"https://docs.github.com/rest/reference/repos#create-a-repository-for-the-authenticated-user"}
